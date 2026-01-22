@@ -1,5 +1,8 @@
 # M-Code-Editor
 
+![m-code-editor example](m-code-editor-example-picture.png)
+
+
 A minimal code editor built as a learning project.
 
 The editor provides a simple graphical interface for editing text and Python files,
